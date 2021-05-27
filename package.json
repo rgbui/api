@@ -1,0 +1,27 @@
+{
+  "name": "sy.api",
+  "version": "1.0.0",
+  "description": "sy api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rgbui/api.git"
+  },
+  "keywords": [
+    "sy",
+    "api"
+  ],
+  "author": "kanhai",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rgbui/api/issues"
+  },
+  "homepage": "https://github.com/rgbui/api#readme",
+  "devDependencies": {
+    "webpack": "^5.37.1",
+    "webpack-cli": "^4.7.0"
+  }
+}
